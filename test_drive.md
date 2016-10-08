@@ -25,4 +25,4 @@ ggplot(economics) +
   ggthemes::theme_economist()
 ```
 
-![](test_drive_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![](test_drive_files/figure-markdown_github/r-1.png)
